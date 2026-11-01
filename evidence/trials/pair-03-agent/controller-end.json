@@ -1,0 +1,6 @@
+{
+  "sim_time": 102.8000000001268,
+  "wall_s": 305.5944554160815,
+  "completed": false,
+  "error": "RuntimeError: maximum_agent_decisions"
+}

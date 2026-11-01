@@ -1,0 +1,119 @@
+{
+  "description": "Nominal placement offset compensates calibrated grasp-relative drift",
+  "actions": [
+    {
+      "kind": "move",
+      "label": "park-right",
+      "arm": "right",
+      "position": [
+        0.45,
+        -0.3,
+        1.17
+      ],
+      "pitch": -1.57079632679,
+      "seconds": 2
+    },
+    {
+      "kind": "move",
+      "label": "approach",
+      "arm": "left",
+      "position": [
+        0.43,
+        0.08,
+        1.12
+      ],
+      "pitch": -1.1,
+      "seconds": 2
+    },
+    {
+      "kind": "move",
+      "label": "descend",
+      "arm": "left",
+      "position": [
+        0.43,
+        0.08,
+        1.058
+      ],
+      "pitch": -0.6,
+      "seconds": 3
+    },
+    {
+      "kind": "aperture",
+      "label": "grasp",
+      "arm": "left",
+      "opening": 0.43,
+      "seconds": 1
+    },
+    {
+      "kind": "move",
+      "label": "lift",
+      "arm": "left",
+      "position": [
+        0.43,
+        0.08,
+        1.12
+      ],
+      "pitch": -1.1,
+      "seconds": 3
+    },
+    {
+      "kind": "wait",
+      "label": "hold",
+      "seconds": 1
+    },
+    {
+      "kind": "move",
+      "label": "transfer",
+      "arm": "left",
+      "position": [
+        0.43,
+        -0.08,
+        1.12
+      ],
+      "pitch": -1.1,
+      "seconds": 4
+    },
+    {
+      "kind": "move",
+      "label": "lower",
+      "arm": "left",
+      "position": [
+        0.427,
+        -0.08,
+        1.058
+      ],
+      "pitch": -0.6,
+      "seconds": 3
+    },
+    {
+      "kind": "wait",
+      "label": "seat",
+      "seconds": 0.5
+    },
+    {
+      "kind": "aperture",
+      "label": "release",
+      "arm": "left",
+      "opening": 0.7854,
+      "seconds": 1
+    },
+    {
+      "kind": "move",
+      "label": "retreat",
+      "arm": "left",
+      "position": [
+        0.43,
+        -0.08,
+        1.12
+      ],
+      "pitch": -1.1,
+      "seconds": 3
+    },
+    {
+      "kind": "wait",
+      "label": "stable",
+      "seconds": 3
+    }
+  ],
+  "layout_offset_x": -0.15
+}

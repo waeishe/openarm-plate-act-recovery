@@ -1,0 +1,1 @@
+{"reason":"obs-0042 verifies seating after retreat and 2 seconds settling: center error 0.18 mm, tilt 0.00068°, yaw −0.119°, and inferred bottom z=1.027 m matching the support. Both grippers are open and clear. Leave the plate alone.","request_json":"{\"based_on\":[\"obs-0041\",\"obs-0042\"],\"finish\":true}"}

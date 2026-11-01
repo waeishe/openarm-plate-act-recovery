@@ -1,0 +1,107 @@
+{
+  "trials": 10,
+  "complete": true,
+  "protocol_sha256": "720158491db55f3f69e449beb04e8ad68e5d662ce7587be8623f52eff08035e5",
+  "checks": [
+    {
+      "run": "pair-01-act",
+      "metrics_recomputed": true,
+      "horizon120s": true,
+      "source_hashes_verified": true,
+      "actor_no_oracle_keys": true,
+      "model_input_images_verified": true,
+      "prompt_fixed": true
+    },
+    {
+      "run": "pair-01-agent",
+      "metrics_recomputed": true,
+      "horizon120s": true,
+      "source_hashes_verified": true,
+      "actor_no_oracle_keys": true,
+      "model_input_images_verified": true,
+      "prompt_fixed": true
+    },
+    {
+      "run": "pair-02-agent",
+      "metrics_recomputed": true,
+      "horizon120s": true,
+      "source_hashes_verified": true,
+      "actor_no_oracle_keys": true,
+      "model_input_images_verified": true,
+      "prompt_fixed": true
+    },
+    {
+      "run": "pair-02-act",
+      "metrics_recomputed": true,
+      "horizon120s": true,
+      "source_hashes_verified": true,
+      "actor_no_oracle_keys": true,
+      "model_input_images_verified": true,
+      "prompt_fixed": true
+    },
+    {
+      "run": "pair-03-act",
+      "metrics_recomputed": true,
+      "horizon120s": true,
+      "source_hashes_verified": true,
+      "actor_no_oracle_keys": true,
+      "model_input_images_verified": true,
+      "prompt_fixed": true
+    },
+    {
+      "run": "pair-03-agent",
+      "metrics_recomputed": true,
+      "horizon120s": true,
+      "source_hashes_verified": true,
+      "actor_no_oracle_keys": true,
+      "model_input_images_verified": true,
+      "prompt_fixed": true
+    },
+    {
+      "run": "pair-04-agent",
+      "metrics_recomputed": true,
+      "horizon120s": true,
+      "source_hashes_verified": true,
+      "actor_no_oracle_keys": true,
+      "model_input_images_verified": true,
+      "prompt_fixed": true
+    },
+    {
+      "run": "pair-04-act",
+      "metrics_recomputed": true,
+      "horizon120s": true,
+      "source_hashes_verified": true,
+      "actor_no_oracle_keys": true,
+      "model_input_images_verified": true,
+      "prompt_fixed": true
+    },
+    {
+      "run": "pair-05-act",
+      "metrics_recomputed": true,
+      "horizon120s": true,
+      "source_hashes_verified": true,
+      "actor_no_oracle_keys": true,
+      "model_input_images_verified": true,
+      "prompt_fixed": true
+    },
+    {
+      "run": "pair-05-agent",
+      "metrics_recomputed": true,
+      "horizon120s": true,
+      "source_hashes_verified": true,
+      "actor_no_oracle_keys": true,
+      "model_input_images_verified": true,
+      "prompt_fixed": true
+    }
+  ],
+  "identical_initial_physics_all": true,
+  "identical_ACT_first40_inputs_outputs_all": true,
+  "identical_ACT_full120s_all": true,
+  "identical_handoff_physics_all": true,
+  "historical_initial_and_ACT_prefix_match": true,
+  "initial_agent_packet_and_pixels_identical": true,
+  "independent_agent_sessions": 106,
+  "excluded_snapshot_metadata": [
+    "wall_time_ns"
+  ]
+}

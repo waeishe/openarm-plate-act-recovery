@@ -1,0 +1,1 @@
+{"reason":"obs-0008 shows the destination partly occluded by the left hand; RGB cannot verify plate height or tilt. Obtain a direct RGB-D view before deciding whether recovery is needed.","request_json":"{\"based_on\":[\"obs-0008\"],\"actions\":[{\"kind\":\"observe\",\"camera\":\"biolab_top\",\"depth\":true}]}"}

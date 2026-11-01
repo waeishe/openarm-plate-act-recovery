@@ -1,0 +1,1 @@
+{"reason":"obs-0012 is occluded: null depth estimates do not confirm grasp success or locator clearance. Obtain alternate views before repositioning or releasing the plate.","request_json":"{\"based_on\":[\"obs-0010\",\"obs-0012\"],\"actions\":[{\"kind\":\"observe\",\"camera\":\"camera_ceiling\",\"depth\":true},{\"kind\":\"observe\",\"camera\":\"camera_head_left\"}]}"}

@@ -1,0 +1,81 @@
+{
+  "act-v1": {
+    "seed": 731,
+    "training": {
+      "datasets/demo-000/demonstration.npz": "c3671bcb70dfa3a9aadd033090fcb859ae38328b45518b225eed6b61ec51c90f",
+      "datasets/demo-001/demonstration.npz": "926b3d8abacb64859603ca91aafc80f5444ba6699878a5a2d23fe232008dc770",
+      "datasets/demo-002/demonstration.npz": "0cd6214000f9fe4b05eec7e9be0e1bc71dc62d666b42b39f07e5fe6fef581052",
+      "datasets/demo-003/demonstration.npz": "035d607f881011bda97406fc2bf7cfac7ab5f29fb4551f5ec4ebe76d9d71a532",
+      "datasets/demo-004/demonstration.npz": "c4be27c3c651c66ae17943a8f9212bbc67301e0afdd96f319a43de0601d40138",
+      "datasets/demo-005/demonstration.npz": "a7a3636deb56e2f51d2a3bca8b8e1dc504bb5db8ff70b44065871797a51a8fcf",
+      "datasets/demo-006/demonstration.npz": "1f2ff34c4e9e3efe7c5d36fb2b528a7ae2b931554b4ec740fc039d2adcfb9e13",
+      "datasets/demo-007/demonstration.npz": "adbbe46fb8487fded3e14e149b632fcee638d68404f631ac9b8f76d98fcd5d29",
+      "datasets/demo-008/demonstration.npz": "a8384b0f236a2efcf18fcc79613df03d24db9a0ae4509ca230dfab8db2c7b403",
+      "datasets/demo-009/demonstration.npz": "8586fa20f43d4f7f7254b9ecfd4992201b02dcbbe014f126e0ef075b6b355e92",
+      "datasets/demo-010/demonstration.npz": "d34e57f34caf71550050b450da6150cf5e1615579e1f8540e165f395791e7f7f",
+      "datasets/demo-011/demonstration.npz": "403008693c6024caa52c4c71c9e998861fed33625cceedffb9efb9340a2fe841",
+      "datasets/demo-012/demonstration.npz": "7d5d43fb534cf74434f213abc556b595b6ba53147b1a7f0d5d94a0d66831669c",
+      "datasets/demo-013/demonstration.npz": "c1977ce5a48e4a6cedf6d0616cb50a685479ffc9e2f352ac6a032900d422f742",
+      "datasets/demo-014/demonstration.npz": "f03a11d2fe0a7d6b46a861175852e83552618671c1a1e690109adb2c616d1beb",
+      "datasets/demo-015/demonstration.npz": "3cb75932ad9b72d004303fe839898cd3f29cd4fae1ec5e9db4d5d4bb36a23523",
+      "datasets/demo-016/demonstration.npz": "6b19d47a422de50f81b06509d003a6c1a89f6a484edf159747e34b63201f8f88",
+      "datasets/demo-017/demonstration.npz": "fb3be1c85f4622ccd0bfd38fc62668fa55483716ca248f4b5cf6087f45d2e103",
+      "datasets/demo-018/demonstration.npz": "b7b34b3f452ed280a928cd22ab8fd2656b9133b730f8364ed2cbdcc05aaf8ca7",
+      "datasets/demo-019/demonstration.npz": "50d989063d69801c328050bb50f8483546c3c007fccb296bb865f5934b0eedb5"
+    },
+    "validation": {
+      "datasets/demo-020/demonstration.npz": "88e9b4fde77ee365b1acb515ec3f299ce39b85645dbb8699bc27dbf7edc71008",
+      "datasets/demo-021/demonstration.npz": "0d99ea6ff9c1efc44888c4f0c7f076d01256be2aac0cfa74b3a532466b61cbcb",
+      "datasets/demo-022/demonstration.npz": "0edbaec943af28e8ad2b06fdf4787397421a2c7ae7653cf76f9c145ad86dc808",
+      "datasets/demo-023/demonstration.npz": "7a4683bf5821571b1a2f3a165b1a1bfd0b83a2a68317a7f9d71ceb714270ff2e"
+    },
+    "not_used": "all final evaluation states",
+    "official_implementation": "lerobot.policies.act.modeling_act.ACTPolicy",
+    "image_preprocessing": "ImageNet normalization",
+    "expert": "scripted, calibrated model-based controller",
+    "batch": 16,
+    "steps": 3000,
+    "resume": null,
+    "training_code_sha256": "164aff04afa01c4d93c935c15c76e5bf4f35defe92ecd5b7bfb721af2e0ee3d8"
+  },
+  "act-v2": {
+    "seed": 731,
+    "training": {
+      "datasets/demo-000/demonstration.npz": "c3671bcb70dfa3a9aadd033090fcb859ae38328b45518b225eed6b61ec51c90f",
+      "datasets/demo-001/demonstration.npz": "926b3d8abacb64859603ca91aafc80f5444ba6699878a5a2d23fe232008dc770",
+      "datasets/demo-002/demonstration.npz": "0cd6214000f9fe4b05eec7e9be0e1bc71dc62d666b42b39f07e5fe6fef581052",
+      "datasets/demo-003/demonstration.npz": "035d607f881011bda97406fc2bf7cfac7ab5f29fb4551f5ec4ebe76d9d71a532",
+      "datasets/demo-004/demonstration.npz": "c4be27c3c651c66ae17943a8f9212bbc67301e0afdd96f319a43de0601d40138",
+      "datasets/demo-005/demonstration.npz": "a7a3636deb56e2f51d2a3bca8b8e1dc504bb5db8ff70b44065871797a51a8fcf",
+      "datasets/demo-006/demonstration.npz": "1f2ff34c4e9e3efe7c5d36fb2b528a7ae2b931554b4ec740fc039d2adcfb9e13",
+      "datasets/demo-007/demonstration.npz": "adbbe46fb8487fded3e14e149b632fcee638d68404f631ac9b8f76d98fcd5d29",
+      "datasets/demo-008/demonstration.npz": "a8384b0f236a2efcf18fcc79613df03d24db9a0ae4509ca230dfab8db2c7b403",
+      "datasets/demo-009/demonstration.npz": "8586fa20f43d4f7f7254b9ecfd4992201b02dcbbe014f126e0ef075b6b355e92",
+      "datasets/demo-010/demonstration.npz": "d34e57f34caf71550050b450da6150cf5e1615579e1f8540e165f395791e7f7f",
+      "datasets/demo-011/demonstration.npz": "403008693c6024caa52c4c71c9e998861fed33625cceedffb9efb9340a2fe841",
+      "datasets/demo-012/demonstration.npz": "7d5d43fb534cf74434f213abc556b595b6ba53147b1a7f0d5d94a0d66831669c",
+      "datasets/demo-013/demonstration.npz": "c1977ce5a48e4a6cedf6d0616cb50a685479ffc9e2f352ac6a032900d422f742",
+      "datasets/demo-014/demonstration.npz": "f03a11d2fe0a7d6b46a861175852e83552618671c1a1e690109adb2c616d1beb",
+      "datasets/demo-015/demonstration.npz": "3cb75932ad9b72d004303fe839898cd3f29cd4fae1ec5e9db4d5d4bb36a23523",
+      "datasets/demo-016/demonstration.npz": "6b19d47a422de50f81b06509d003a6c1a89f6a484edf159747e34b63201f8f88",
+      "datasets/demo-017/demonstration.npz": "fb3be1c85f4622ccd0bfd38fc62668fa55483716ca248f4b5cf6087f45d2e103",
+      "datasets/demo-018/demonstration.npz": "b7b34b3f452ed280a928cd22ab8fd2656b9133b730f8364ed2cbdcc05aaf8ca7",
+      "datasets/demo-019/demonstration.npz": "50d989063d69801c328050bb50f8483546c3c007fccb296bb865f5934b0eedb5"
+    },
+    "validation": {
+      "datasets/demo-020/demonstration.npz": "88e9b4fde77ee365b1acb515ec3f299ce39b85645dbb8699bc27dbf7edc71008",
+      "datasets/demo-021/demonstration.npz": "0d99ea6ff9c1efc44888c4f0c7f076d01256be2aac0cfa74b3a532466b61cbcb",
+      "datasets/demo-022/demonstration.npz": "0edbaec943af28e8ad2b06fdf4787397421a2c7ae7653cf76f9c145ad86dc808",
+      "datasets/demo-023/demonstration.npz": "7a4683bf5821571b1a2f3a165b1a1bfd0b83a2a68317a7f9d71ceb714270ff2e"
+    },
+    "not_used": "all final evaluation states",
+    "official_implementation": "lerobot.policies.act.modeling_act.ACTPolicy",
+    "image_preprocessing": "ImageNet normalization",
+    "expert": "scripted, calibrated model-based controller",
+    "batch": 16,
+    "steps": 4000,
+    "resume": "checkpoints/act-v1/step-003000.pt",
+    "learning_rate": 3e-05,
+    "training_code_sha256": "243cfd865aff6aeb583dc4316145be8feba243d38c2773beae79f75368756df9"
+  }
+}

@@ -1,0 +1,1 @@
+{"reason":"obs-0012 is occluded: its null depth fit cannot confirm that the plate lifted clear of the locators. Obtain alternate views before repositioning or releasing.","request_json":"{\"based_on\":[\"obs-0010\",\"obs-0012\"],\"actions\":[{\"kind\":\"observe\",\"camera\":\"camera_ceiling\",\"depth\":true},{\"kind\":\"observe\",\"camera\":\"camera_head_right\"}]}"}

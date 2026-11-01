@@ -1,0 +1,103 @@
+{
+  "schedule": [
+    {
+      "pair": 1,
+      "id": "x-plus-new-01",
+      "x_mm": 5.0,
+      "y_mm": 0.0,
+      "method": "act",
+      "run": "pair-01-act"
+    },
+    {
+      "pair": 1,
+      "id": "x-plus-new-01",
+      "x_mm": 5.0,
+      "y_mm": 0.0,
+      "method": "agent",
+      "run": "pair-01-agent"
+    },
+    {
+      "pair": 2,
+      "id": "x-plus-new-02",
+      "x_mm": 5.0,
+      "y_mm": 0.0,
+      "method": "agent",
+      "run": "pair-02-agent"
+    },
+    {
+      "pair": 2,
+      "id": "x-plus-new-02",
+      "x_mm": 5.0,
+      "y_mm": 0.0,
+      "method": "act",
+      "run": "pair-02-act"
+    },
+    {
+      "pair": 3,
+      "id": "x-plus-new-03",
+      "x_mm": 5.0,
+      "y_mm": 0.0,
+      "method": "act",
+      "run": "pair-03-act"
+    },
+    {
+      "pair": 3,
+      "id": "x-plus-new-03",
+      "x_mm": 5.0,
+      "y_mm": 0.0,
+      "method": "agent",
+      "run": "pair-03-agent"
+    },
+    {
+      "pair": 4,
+      "id": "x-plus-new-04",
+      "x_mm": 5.0,
+      "y_mm": 0.0,
+      "method": "agent",
+      "run": "pair-04-agent"
+    },
+    {
+      "pair": 4,
+      "id": "x-plus-new-04",
+      "x_mm": 5.0,
+      "y_mm": 0.0,
+      "method": "act",
+      "run": "pair-04-act"
+    },
+    {
+      "pair": 5,
+      "id": "x-plus-new-05",
+      "x_mm": 5.0,
+      "y_mm": 0.0,
+      "method": "act",
+      "run": "pair-05-act"
+    },
+    {
+      "pair": 5,
+      "id": "x-plus-new-05",
+      "x_mm": 5.0,
+      "y_mm": 0.0,
+      "method": "agent",
+      "run": "pair-05-agent"
+    }
+  ],
+  "horizon": 120,
+  "handoff": 40,
+  "execute": 10,
+  "agent_settings": {
+    "model": "gpt-6-astra",
+    "effort": "medium"
+  },
+  "checkpoint_sha256": "94851a1a5bf3155550f5aff49e9c0eabcae6897c8223b9996db8827ddb567856",
+  "agent_prompt_sha256": "bc73973a208e6e3c942ff9f5a38f100a491a3b5eff2e8c80b86b774988e61717",
+  "primary_metric": "final 2s stable seating; full source-to-destination task",
+  "quality_metric": "clear two-finger lift, all command openings supported, no unsupported loss, no fixture collision >.5N",
+  "completion_time": "end of first2s in final uninterrupted seated suffix",
+  "checkpoint": "checkpoints/plate-act.pt",
+  "source_offset_mm": [
+    5,
+    0
+  ],
+  "scope": "Five new pairs at one preselected failure configuration. Prior trials excluded.",
+  "original_protocol_sha256": "720158491db55f3f69e449beb04e8ad68e5d662ce7587be8623f52eff08035e5"
+}

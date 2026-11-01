@@ -1,0 +1,24 @@
+{
+  "checks": [
+    {
+      "run": "portability-act",
+      "source_trial": "pair-01-act",
+      "evaluation_and_actions_exact_match": true,
+      "qpos_qvel_ctrl_time_exact_match": true,
+      "frames": 3601,
+      "new_model_calls": null,
+      "purpose": "packaging validation, excluded from experimental sample"
+    },
+    {
+      "run": "portability-agent-replay",
+      "source_trial": "pair-04-agent",
+      "evaluation_and_actions_exact_match": true,
+      "qpos_qvel_ctrl_time_exact_match": true,
+      "frames": 3601,
+      "new_model_calls": 0,
+      "purpose": "packaging validation, excluded from experimental sample"
+    }
+  ],
+  "checkpoint_sha256": "94851a1a5bf3155550f5aff49e9c0eabcae6897c8223b9996db8827ddb567856",
+  "changes": "Only file locations, unused imports, CLI packaging, and disabling redundant backbone initialization download for inference. Full saved weights and prompt unchanged."
+}

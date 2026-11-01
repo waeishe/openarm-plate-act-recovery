@@ -1,0 +1,7 @@
+# Verified runtime versions. Python 3.12 / macOS Apple Silicon (MPS).
+mujoco==3.15.0
+numpy==2.2.6
+Pillow==11.3.0
+torch==2.11.0
+torchvision==0.26.0
+lerobot==0.6.1

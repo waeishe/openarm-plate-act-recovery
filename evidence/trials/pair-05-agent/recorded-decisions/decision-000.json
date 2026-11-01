@@ -1,0 +1,1 @@
+{"reason":"obs-0008 shows wells near the orange destination, but the hand obscures the plate and RGB cannot verify height or tilt. Obtain a top-down depth observation before deciding whether recovery is needed.","request_json":"{\"based_on\":[\"obs-0008\"],\"actions\":[{\"kind\":\"observe\",\"camera\":\"biolab_top\",\"depth\":true}]}"}

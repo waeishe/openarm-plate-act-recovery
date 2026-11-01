@@ -1,0 +1,137 @@
+{
+  "task_completed": true,
+  "quality_success": false,
+  "error": null,
+  "elapsed_sim_s": 120.00000000020893,
+  "first_stable_completion_s": 104.70000000013587,
+  "terminal_stable_completion_s": 104.73400000012649,
+  "unsupported_loss_times": [],
+  "completion_without_verified_lift": false,
+  "completion_after_unsupported_release_or_loss": true,
+  "two_finger_clear_hold_s": 7.499999999999983,
+  "release_times": [
+    20.1,
+    58.6,
+    80.5,
+    101.2
+  ],
+  "supported_before_release_s": [
+    0.3,
+    1.3666666666666676,
+    0,
+    0.8666666666666666
+  ],
+  "all_releases_supported": false,
+  "max_fixture_contact_n": 6.26481664353844,
+  "final_xy_error_mm": 0.5548688835739429,
+  "final_tilt_deg": 0.00028967974907083703,
+  "final_yaw_deg": -0.12195870022654408,
+  "max_tilt_deg": 34.5037625891082,
+  "final": {
+    "sim_time": 120.00000000020893,
+    "phase": "hold",
+    "plate_xyz": [
+      0.4303282430952372,
+      -0.07955263443540249,
+      1.0269901613033823
+    ],
+    "plate_quat": [
+      0.999999433639795,
+      -2.4449252393783415e-06,
+      6.429891898747455e-07,
+      -0.0010642902327106488
+    ],
+    "min_plate_z": 1.0269898704369882,
+    "left_finger_angle": 0.7833463340085077,
+    "right_finger_angle": 0.785399418103015,
+    "hand_distance_m": 0.18476972393736757,
+    "xy_error_m": 0.0005548688835739429,
+    "z_error_m": -9.8386966176367e-06,
+    "tilt_deg": 0.00028967974907083703,
+    "yaw_deg": -0.12195870022654408,
+    "linear_speed": 3.8821725627327085e-10,
+    "angular_speed": 1.2794619302418399e-08,
+    "destination_supported": true,
+    "finger_bodies": [],
+    "contacts": [
+      {
+        "geom": "destination_seat_support",
+        "body": "destination_seat",
+        "distance": -1.0047299324104828e-05,
+        "normal_force_n": 0.0876811583573878
+      },
+      {
+        "geom": "destination_seat_support",
+        "body": "destination_seat",
+        "distance": -9.918181136952182e-06,
+        "normal_force_n": 0.08655409193867536
+      },
+      {
+        "geom": "destination_seat_support",
+        "body": "destination_seat",
+        "distance": -9.624872393645526e-06,
+        "normal_force_n": 0.08399385356245938
+      },
+      {
+        "geom": "destination_seat_support",
+        "body": "destination_seat",
+        "distance": -9.753990580798172e-06,
+        "normal_force_n": 0.08512089613706585
+      }
+    ],
+    "robot_fixture_contacts": [],
+    "left": {
+      "position": [
+        0.42996267337012817,
+        0.08002261312321475,
+        1.120132297897263
+      ],
+      "rotation": [
+        [
+          0.4532691312177159,
+          2.9823329252589184e-05,
+          -0.8913737116359817
+        ],
+        [
+          -5.304818426086686e-05,
+          0.9999999985719344,
+          6.482381903314186e-06
+        ],
+        [
+          0.8913737105563677,
+          4.434749328662169e-05,
+          0.45326913215249126
+        ]
+      ],
+      "frame": "world"
+    },
+    "right": {
+      "position": [
+        0.4499717131966275,
+        -0.29995515169785075,
+        1.1700149791846204
+      ],
+      "rotation": [
+        [
+          0.00012816730723165678,
+          -0.00037693478351105887,
+          -0.9999999207466519
+        ],
+        [
+          -0.00010579360407175165,
+          0.9999999233588267,
+          -0.00037694834377810933
+        ],
+        [
+          0.9999999861904272,
+          0.00010584190814144184,
+          0.00012812742011956827
+        ]
+      ],
+      "frame": "world"
+    }
+  },
+  "wall_s": 227.2724730829941,
+  "controller_completed": true,
+  "agent_called": true
+}

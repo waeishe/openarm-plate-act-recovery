@@ -1,0 +1,554 @@
+{
+  "src/environment.py": {
+    "source": "2611_openarm_plate_repeat5/src/environment.py",
+    "source_sha256": "166d91df2c49905069c8114e7673465922fec3171c53f7568ec3c1b136b0c0b7",
+    "packaged_sha256": "8802881caee982b2a3984efa5597293088ab88d156958d1b7b849e407c59a173",
+    "adapted": true
+  },
+  "src/evaluation.py": {
+    "source": "2611_openarm_plate_repeat5/src/evaluation.py",
+    "source_sha256": "694336d86c7e1329d005eb3858690bdeeaba638a744e338ea12b645ccdea4263",
+    "packaged_sha256": "694336d86c7e1329d005eb3858690bdeeaba638a744e338ea12b645ccdea4263",
+    "adapted": false
+  },
+  "src/learning.py": {
+    "source": "2611_openarm_plate_repeat5/src/learning.py",
+    "source_sha256": "243cfd865aff6aeb583dc4316145be8feba243d38c2773beae79f75368756df9",
+    "packaged_sha256": "66fad2bf0178a1b89cda74f522ae89e60567d98e69a417bab8d61f031c0a2691",
+    "adapted": true
+  },
+  "src/monitor.py": {
+    "source": "2611_openarm_plate_repeat5/src/monitor.py",
+    "source_sha256": "5033d7d77010b979c923647b399b05530ddbd7e3aed9885d0de5fc61dd8e1134",
+    "packaged_sha256": "5033d7d77010b979c923647b399b05530ddbd7e3aed9885d0de5fc61dd8e1134",
+    "adapted": false
+  },
+  "src/agent_control.py": {
+    "source": "2611_openarm_plate_repeat5/src/agent_control.py",
+    "source_sha256": "32fe7e4b9485760e583ec42cce5d330f46502fd2f32a24b6647e0eacb9086be0",
+    "packaged_sha256": "32fe7e4b9485760e583ec42cce5d330f46502fd2f32a24b6647e0eacb9086be0",
+    "adapted": false
+  },
+  "src/perception_study.py": {
+    "source": "2611_openarm_plate_repeat5/src/perception_study.py",
+    "source_sha256": "e717cd6fb14186b5b9ecbee48d24ad3205cb2a8acd325268bbac72a3f9e775f8",
+    "packaged_sha256": "e717cd6fb14186b5b9ecbee48d24ad3205cb2a8acd325268bbac72a3f9e775f8",
+    "adapted": false
+  },
+  "src/plate_validation.py": {
+    "source": "2610_openarm_plate_validation/src/plate_validation.py",
+    "source_sha256": "c9185016d7e820c1d76305648218bf7c766ec0d251b8af05fd6e3e90dd8ac2fd",
+    "packaged_sha256": "008a1cab1474b19e42c62801d6fdd0ac02477b9c6ddc39ea9bb49cec9759c731",
+    "adapted": true
+  },
+  "src/scoring.py": {
+    "source": "2610_openarm_plate_validation/src/scoring.py",
+    "source_sha256": "34365fc5f330bca888e5b0faa40fbe86d91b8c558a3099e94c48274b44ac3220",
+    "packaged_sha256": "34365fc5f330bca888e5b0faa40fbe86d91b8c558a3099e94c48274b44ac3220",
+    "adapted": false
+  },
+  "src/plate_recovery.py": {
+    "source": "2610_openarm_plate_recovery/src/plate_recovery.py",
+    "source_sha256": "ffccd7d4dfdba4b6434c0bada797d19602c75b30d6e81f019f50b93137a36750",
+    "packaged_sha256": "5b3356d18b771ca6f3d2d7f8729083a7d40dde65d60c4a07623fae0e676c0153",
+    "adapted": true
+  },
+  "src/quality.py": {
+    "source": "2610_openarm_plate_recovery/src/quality.py",
+    "source_sha256": "7ca326272648ae83b679744b292de2af7900cefa29587ba57780e451bce283ca",
+    "packaged_sha256": "7ca326272648ae83b679744b292de2af7900cefa29587ba57780e451bce283ca",
+    "adapted": false
+  },
+  "src/perception.py": {
+    "source": "2610_openarm_plate_recovery/src/perception.py",
+    "source_sha256": "5204d18fb1c317d0bdd011f2a3470365ffc557ab33adce88623ed5855ab2f5d7",
+    "packaged_sha256": "5204d18fb1c317d0bdd011f2a3470365ffc557ab33adce88623ed5855ab2f5d7",
+    "adapted": false
+  },
+  "src/supervisor.py": {
+    "source": "2610_openarm_plate_recovery/src/supervisor.py",
+    "source_sha256": "7d3166c4c2426c1845924c7708f1d3b1d2968e1dde70fa2e2a89339c2c58e826",
+    "packaged_sha256": "782b98acd5527df399752cb0ebba7cad7741e696703f8e7c1d8dafed0ca5604b",
+    "adapted": true
+  },
+  "src/openarm_vla/backend.py": {
+    "source": "2610_openarm_teleop/vla/src/openarm_vla/backend.py",
+    "source_sha256": "f09d8aa42113477489694ff444e13f04c60a31ea5fd52aa2cecf6184ef36f9cd",
+    "packaged_sha256": "f09d8aa42113477489694ff444e13f04c60a31ea5fd52aa2cecf6184ef36f9cd",
+    "adapted": false
+  },
+  "src/openarm_vla/common.py": {
+    "source": "2610_openarm_teleop/vla/src/openarm_vla/common.py",
+    "source_sha256": "74faaaf15841ed3cb99e16afa654a52653bb3df7375b8a9eab873047c8a25539",
+    "packaged_sha256": "9f8b64af0a0e8c06829bd33643dc267af6eb5489b514cd627510800bdb3f4f0b",
+    "adapted": true
+  },
+  "src/openarm_vla/evaluator.py": {
+    "source": "2610_openarm_teleop/vla/src/openarm_vla/evaluator.py",
+    "source_sha256": "cdfd3df3817310ac08481a94713df981f284b271c0adae5ec575745993394977",
+    "packaged_sha256": "cdfd3df3817310ac08481a94713df981f284b271c0adae5ec575745993394977",
+    "adapted": false
+  },
+  "src/aspire_lab/openarm_adapter.py": {
+    "source": "2610_openarm_teleop/research/aspire/src/aspire_lab/openarm_adapter.py",
+    "source_sha256": "8ec63223d4d6e834852de910a15961ddbfc9e12f06891a54f382f32c6fd07e09",
+    "packaged_sha256": "8ec63223d4d6e834852de910a15961ddbfc9e12f06891a54f382f32c6fd07e09",
+    "adapted": false
+  },
+  "src/aspire_lab/vision.py": {
+    "source": "2610_openarm_teleop/research/aspire/src/aspire_lab/vision.py",
+    "source_sha256": "60b475cc489726fb9dc313c4e1571ab8d21f417f4638949abc4e19e2906faa59",
+    "packaged_sha256": "60b475cc489726fb9dc313c4e1571ab8d21f417f4638949abc4e19e2906faa59",
+    "adapted": false
+  },
+  "src/aspire_lab/isolated.py": {
+    "source": "2610_openarm_teleop/research/aspire/src/aspire_lab/isolated.py",
+    "source_sha256": "d3d4eacad5a3439491e08c889d7a83add4dbf154a3272a2a4f1322888f404009",
+    "packaged_sha256": "29332f0374186639ff11a000a811d686e520d3dacbf62511313f5b07468c69ff",
+    "adapted": true
+  },
+  "src/openarm_recovery/runtime.py": {
+    "source": "2610_openarm_agent_recovery/src/openarm_recovery/runtime.py",
+    "source_sha256": "9617a49ccef2e29239eb45d6d39a6b0c4f4c60249df47600df223d5b03689783",
+    "packaged_sha256": "f98874b9262f1c34baeb808a7828b9e58cf3b911d858033ea47a1fce30555b73",
+    "adapted": true
+  },
+  "src/openarm_recovery/agent.py": {
+    "source": "2610_openarm_agent_recovery/src/openarm_recovery/agent.py",
+    "source_sha256": "088215232d5b88366faf6fd489c923d9d0de238689df0df681d0fd99c7eee9ec",
+    "packaged_sha256": "abe835d4ab842a7b3a903f5e16f4b18f8af07e8703a32cec199cd6d342b187d8",
+    "adapted": true
+  },
+  "src/demonstrations.py": {
+    "source": "2611_openarm_plate_repeat5/src/study.py",
+    "source_sha256": "5d82ef559d71ce8f9e509db66d0676cfb878f22ebd24c71b741271bb4f7e6e06",
+    "packaged_sha256": "ffa9b50ee0e98a0ea730caab56d2d14523930190d8b75aa63d5912151e01d900",
+    "adapted": true
+  },
+  "configs/calibration.json": {
+    "source": "2610_openarm_plate_validation/configs/validation-v2.json",
+    "source_sha256": "f1b603458ef1cb62d303c9fa29dcb027ee9736746daa266ca1e3816492e2209e",
+    "packaged_sha256": "f1b603458ef1cb62d303c9fa29dcb027ee9736746daa266ca1e3816492e2209e",
+    "adapted": false
+  },
+  "assets/plate_transfer.xml": {
+    "source": "2610_openarm_biolab/teleop/v2/cell/plate_transfer.xml",
+    "source_sha256": "618aa2c9bb26dd7eca4dd894bde5bf41f730216d53004dead4513ccb492950ef",
+    "packaged_sha256": "618aa2c9bb26dd7eca4dd894bde5bf41f730216d53004dead4513ccb492950ef",
+    "adapted": false
+  },
+  "checkpoints/plate-act.pt": {
+    "source": "2610_openarm_plate_act_study/checkpoints/act-v2/step-004000.pt",
+    "source_sha256": "94851a1a5bf3155550f5aff49e9c0eabcae6897c8223b9996db8827ddb567856",
+    "packaged_sha256": "94851a1a5bf3155550f5aff49e9c0eabcae6897c8223b9996db8827ddb567856",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/base_link.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/base_link.stl",
+    "source_sha256": "795f96ece4db1f896ba2962314c6bda5a876eac2c3cb578b018b21985b57c158",
+    "packaged_sha256": "795f96ece4db1f896ba2962314c6bda5a876eac2c3cb578b018b21985b57c158",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/base_link_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/base_link_left.stl",
+    "source_sha256": "de4c55dbe43b495bb5fbb1ee4c8b271c44fcd234d244a294a0197c928533d406",
+    "packaged_sha256": "de4c55dbe43b495bb5fbb1ee4c8b271c44fcd234d244a294a0197c928533d406",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/ee_base_link.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/ee_base_link.stl",
+    "source_sha256": "b7e0bfdc8377cf12e793752f7b65ec97dcc3f6b65a5db6b70d1c605a65e12b23",
+    "packaged_sha256": "b7e0bfdc8377cf12e793752f7b65ec97dcc3f6b65a5db6b70d1c605a65e12b23",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/ee_base_link_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/ee_base_link_left.stl",
+    "source_sha256": "9c59f1783b85c69c312d262677460d592a3fa56eb8cb57809dc1cad22e2b74ef",
+    "packaged_sha256": "9c59f1783b85c69c312d262677460d592a3fa56eb8cb57809dc1cad22e2b74ef",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_inner_part_00.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_inner_part_00.stl",
+    "source_sha256": "32bd78820acf74834b1c218cf07b714b006963cdc35a2a75ea31e54d1daf0671",
+    "packaged_sha256": "32bd78820acf74834b1c218cf07b714b006963cdc35a2a75ea31e54d1daf0671",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_inner_part_00_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_inner_part_00_left.stl",
+    "source_sha256": "c8f13b70d665196986bf7a8421d589c7c04b7abbf4fce60e01f54e41870951c8",
+    "packaged_sha256": "c8f13b70d665196986bf7a8421d589c7c04b7abbf4fce60e01f54e41870951c8",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_inner_part_01.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_inner_part_01.stl",
+    "source_sha256": "517d11a987273d7693382aaa4c84026a734950fdc4b52a7ca8989e8416fb80d1",
+    "packaged_sha256": "517d11a987273d7693382aaa4c84026a734950fdc4b52a7ca8989e8416fb80d1",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_inner_part_01_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_inner_part_01_left.stl",
+    "source_sha256": "88904d7f5a20aef633e966a54ba9dcaeb8d44bd5ec8fb0561bf717c2125a33f4",
+    "packaged_sha256": "88904d7f5a20aef633e966a54ba9dcaeb8d44bd5ec8fb0561bf717c2125a33f4",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_inner_part_02.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_inner_part_02.stl",
+    "source_sha256": "7c3c4ed509c682e07c5bf0945d271dd7792b6175ce2778f927c54de25a42120a",
+    "packaged_sha256": "7c3c4ed509c682e07c5bf0945d271dd7792b6175ce2778f927c54de25a42120a",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_inner_part_02_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_inner_part_02_left.stl",
+    "source_sha256": "45b8989b5401a86f1553c87c4facdc5f907d7d2c68403cca6cf3e3137c11baed",
+    "packaged_sha256": "45b8989b5401a86f1553c87c4facdc5f907d7d2c68403cca6cf3e3137c11baed",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_inner_part_03.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_inner_part_03.stl",
+    "source_sha256": "dcbfef75fb9dc29b56e6a8873b0b537436fd4af5eb086b1d16bc747e511f53c6",
+    "packaged_sha256": "dcbfef75fb9dc29b56e6a8873b0b537436fd4af5eb086b1d16bc747e511f53c6",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_inner_part_03_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_inner_part_03_left.stl",
+    "source_sha256": "ba43c83673d7fdcea13639cee63c2cf9c23abda77497d61c4973aef9cde2ab94",
+    "packaged_sha256": "ba43c83673d7fdcea13639cee63c2cf9c23abda77497d61c4973aef9cde2ab94",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_outer_part_00.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_outer_part_00.stl",
+    "source_sha256": "b6526e60a29686561ce9c9408aca810767cf3ff1cece9e1aaba6d5e752b6613c",
+    "packaged_sha256": "b6526e60a29686561ce9c9408aca810767cf3ff1cece9e1aaba6d5e752b6613c",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_outer_part_00_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_outer_part_00_left.stl",
+    "source_sha256": "586fa8592414215fb18912bcfaf45c91fcb310fe6d1cb42dc5ec54295e2ec2c8",
+    "packaged_sha256": "586fa8592414215fb18912bcfaf45c91fcb310fe6d1cb42dc5ec54295e2ec2c8",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_outer_part_01.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_outer_part_01.stl",
+    "source_sha256": "b8028798ac2cac27634fa0a9808ed413449a5cfd6caa9becab423293f7b089ef",
+    "packaged_sha256": "b8028798ac2cac27634fa0a9808ed413449a5cfd6caa9becab423293f7b089ef",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_outer_part_01_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_outer_part_01_left.stl",
+    "source_sha256": "fa02dfb7b3d966c6d90b9c2f8dae9238042c9ddc2135db3b63b468ed90601f1f",
+    "packaged_sha256": "fa02dfb7b3d966c6d90b9c2f8dae9238042c9ddc2135db3b63b468ed90601f1f",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_outer_part_02.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_outer_part_02.stl",
+    "source_sha256": "b5997e97a1d9524fada8c5d375e8f3077f9a9249bbb792be4cbed303edb02588",
+    "packaged_sha256": "b5997e97a1d9524fada8c5d375e8f3077f9a9249bbb792be4cbed303edb02588",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_outer_part_02_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_outer_part_02_left.stl",
+    "source_sha256": "7df346d8cbc89f5f8d01fb636cdd8baa3fa1b827ae84eb66faf9e364c8f980c4",
+    "packaged_sha256": "7df346d8cbc89f5f8d01fb636cdd8baa3fa1b827ae84eb66faf9e364c8f980c4",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_outer_part_03.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_outer_part_03.stl",
+    "source_sha256": "330545b4932648afb504ff275d90fb066018a939091ad58b8041e1baf7fb12c4",
+    "packaged_sha256": "330545b4932648afb504ff275d90fb066018a939091ad58b8041e1baf7fb12c4",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/finger_outer_part_03_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/finger_outer_part_03_left.stl",
+    "source_sha256": "bcc3626b95fb9030b9b5919d7248208f69c49dd5f745f214fb647ce4788154f1",
+    "packaged_sha256": "bcc3626b95fb9030b9b5919d7248208f69c49dd5f745f214fb647ce4788154f1",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/link1.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/link1.stl",
+    "source_sha256": "5fcc7bd6900fd115004f6d4553fae0602aa4b29d132b354728cca9510f701803",
+    "packaged_sha256": "5fcc7bd6900fd115004f6d4553fae0602aa4b29d132b354728cca9510f701803",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/link1_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/link1_left.stl",
+    "source_sha256": "2edc0a14e885e8c632ee0d7897ac3571892f0e5dec1b6a15661ce7db9a0094c5",
+    "packaged_sha256": "2edc0a14e885e8c632ee0d7897ac3571892f0e5dec1b6a15661ce7db9a0094c5",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/link2.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/link2.stl",
+    "source_sha256": "381f0c51a4d2bacb40a9782ecd9901877d5b32b9083329d39b741fc63a73a483",
+    "packaged_sha256": "381f0c51a4d2bacb40a9782ecd9901877d5b32b9083329d39b741fc63a73a483",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/link2_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/link2_left.stl",
+    "source_sha256": "dd282c7c9b43721188b13f1585d597e9657c10fa3445d62c0246cdd67247a885",
+    "packaged_sha256": "dd282c7c9b43721188b13f1585d597e9657c10fa3445d62c0246cdd67247a885",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/link3.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/link3.stl",
+    "source_sha256": "72ce0a23e5e65803c9a5d08d8bd915f5ccb4c5a285119183d461f73ab2f535b7",
+    "packaged_sha256": "72ce0a23e5e65803c9a5d08d8bd915f5ccb4c5a285119183d461f73ab2f535b7",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/link4.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/link4.stl",
+    "source_sha256": "3eb42e669449020c05d5b17152fd22ea8d5737c831619d0f026cfeb2cf28e735",
+    "packaged_sha256": "3eb42e669449020c05d5b17152fd22ea8d5737c831619d0f026cfeb2cf28e735",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/link5_part_00.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/link5_part_00.stl",
+    "source_sha256": "bf2eb3d231354403709ce31a5e009753610b925cc180fef5e7ccf9dcfe3ce456",
+    "packaged_sha256": "bf2eb3d231354403709ce31a5e009753610b925cc180fef5e7ccf9dcfe3ce456",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/link5_part_00_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/link5_part_00_left.stl",
+    "source_sha256": "ac71212225ea545d5e258f4de4de5fd76e2ae15bdc51736ef13e28d7f8363b0b",
+    "packaged_sha256": "ac71212225ea545d5e258f4de4de5fd76e2ae15bdc51736ef13e28d7f8363b0b",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/link5_part_01.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/link5_part_01.stl",
+    "source_sha256": "989ec91e242bb847c186a35c2fae7c3b4079cc03f20b6149f67444fd6d4f0334",
+    "packaged_sha256": "989ec91e242bb847c186a35c2fae7c3b4079cc03f20b6149f67444fd6d4f0334",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/link5_part_01_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/link5_part_01_left.stl",
+    "source_sha256": "224fb3e680786376d6fa7b35017ed6a34ba5adeb08437cfcda2ba332e3bdcafa",
+    "packaged_sha256": "224fb3e680786376d6fa7b35017ed6a34ba5adeb08437cfcda2ba332e3bdcafa",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/link5_part_02.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/link5_part_02.stl",
+    "source_sha256": "eaa0ded332c76f97bdf857e6e2e6a521011722d3db2ff169a96420f3126d5b1f",
+    "packaged_sha256": "eaa0ded332c76f97bdf857e6e2e6a521011722d3db2ff169a96420f3126d5b1f",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/link5_part_02_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/link5_part_02_left.stl",
+    "source_sha256": "4fd2727a55a79ae16a7d5c5599523e3a1b064dc41e9a4e1eaf80828548b3a9c8",
+    "packaged_sha256": "4fd2727a55a79ae16a7d5c5599523e3a1b064dc41e9a4e1eaf80828548b3a9c8",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/link6.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/link6.stl",
+    "source_sha256": "2f474d557a6f442922f1e4ffa4e78365c011c01f33207108da13b79e53e18f39",
+    "packaged_sha256": "2f474d557a6f442922f1e4ffa4e78365c011c01f33207108da13b79e53e18f39",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/collision/link6_left.stl": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/collision/link6_left.stl",
+    "source_sha256": "11f1387a176b2a0256cb8928daaaaa6458b1ce5fa461069acbd484d33eb973cf",
+    "packaged_sha256": "11f1387a176b2a0256cb8928daaaaa6458b1ce5fa461069acbd484d33eb973cf",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/base_link_00.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/base_link_00.obj",
+    "source_sha256": "8121aefe063cb3524618f9a7831e9562ab9b0dca61600a6a843aed85989e4cba",
+    "packaged_sha256": "8121aefe063cb3524618f9a7831e9562ab9b0dca61600a6a843aed85989e4cba",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/base_link_01.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/base_link_01.obj",
+    "source_sha256": "4d66f436adbbe66c3c9eb9753ea084cae8254cace1fb559a7b20a2bba28ee39a",
+    "packaged_sha256": "4d66f436adbbe66c3c9eb9753ea084cae8254cace1fb559a7b20a2bba28ee39a",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link1_00.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link1_00.obj",
+    "source_sha256": "88634d86cab2e96cac501a2f4737be32ebae33d2a3e209847f76fe06d1a2fa6f",
+    "packaged_sha256": "88634d86cab2e96cac501a2f4737be32ebae33d2a3e209847f76fe06d1a2fa6f",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link1_01.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link1_01.obj",
+    "source_sha256": "0087c74c99d1e73fa58d64a48fc868ab428300af7d6ecde2fb2561c6cf45fb84",
+    "packaged_sha256": "0087c74c99d1e73fa58d64a48fc868ab428300af7d6ecde2fb2561c6cf45fb84",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link1_02.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link1_02.obj",
+    "source_sha256": "5237cd1aaff673944a25cef65ea4aa3ab9fe43e7f4b1e1c749d6fc126ce961e8",
+    "packaged_sha256": "5237cd1aaff673944a25cef65ea4aa3ab9fe43e7f4b1e1c749d6fc126ce961e8",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link2_00.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link2_00.obj",
+    "source_sha256": "0e0acc486fb35c6676580b28ccf214faef71d0026b85c95586f3ed9dde7e3d06",
+    "packaged_sha256": "0e0acc486fb35c6676580b28ccf214faef71d0026b85c95586f3ed9dde7e3d06",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link2_01.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link2_01.obj",
+    "source_sha256": "65fad2b72b8143c7bec0a46cf1ca338829f446b526130c756233cb0700c3ad5b",
+    "packaged_sha256": "65fad2b72b8143c7bec0a46cf1ca338829f446b526130c756233cb0700c3ad5b",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link2_02.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link2_02.obj",
+    "source_sha256": "de76944dc0aa4845457c76d2d3eb66e5baa6ff9fb5e26fac81215a157de9be79",
+    "packaged_sha256": "de76944dc0aa4845457c76d2d3eb66e5baa6ff9fb5e26fac81215a157de9be79",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link3_00.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link3_00.obj",
+    "source_sha256": "ea98a309b5ff1aef90dd1d6457b9fecd445f98590117308a37c60969fcfcef0c",
+    "packaged_sha256": "ea98a309b5ff1aef90dd1d6457b9fecd445f98590117308a37c60969fcfcef0c",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link3_01.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link3_01.obj",
+    "source_sha256": "36e02051a0d7aaa06ff23b78982bbbdd25182b4fc6160f92c7eee2d8822183c2",
+    "packaged_sha256": "36e02051a0d7aaa06ff23b78982bbbdd25182b4fc6160f92c7eee2d8822183c2",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link3_02.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link3_02.obj",
+    "source_sha256": "276a291d4174cf14b8b6edfa1f71ff838de2312ab15953809cd13ad0055f0bd2",
+    "packaged_sha256": "276a291d4174cf14b8b6edfa1f71ff838de2312ab15953809cd13ad0055f0bd2",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link4_00.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link4_00.obj",
+    "source_sha256": "0b04d3be1bbabdcab89c44ecce0959fb8105e3e8044a2aed598ccea1d0bda43c",
+    "packaged_sha256": "0b04d3be1bbabdcab89c44ecce0959fb8105e3e8044a2aed598ccea1d0bda43c",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link4_01.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link4_01.obj",
+    "source_sha256": "7d2b126121a794aea3e23ff669871873f70d4d02b4c7b1b99708030ae8a43bc4",
+    "packaged_sha256": "7d2b126121a794aea3e23ff669871873f70d4d02b4c7b1b99708030ae8a43bc4",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link4_02.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link4_02.obj",
+    "source_sha256": "3f34012ceef299dd09fe9e2f347e02b61005af22e66d7d99587931c835484950",
+    "packaged_sha256": "3f34012ceef299dd09fe9e2f347e02b61005af22e66d7d99587931c835484950",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link5_00.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link5_00.obj",
+    "source_sha256": "15f53aa7e9ca5fe5e31c379970a901c8e56f1c9eb82e31b743e76e5e36d3e9e6",
+    "packaged_sha256": "15f53aa7e9ca5fe5e31c379970a901c8e56f1c9eb82e31b743e76e5e36d3e9e6",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link5_01.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link5_01.obj",
+    "source_sha256": "f3300ca1f51f10f9fc949b6ab821bf69e3a43d0ba88048c3ad2051016c05ca0e",
+    "packaged_sha256": "f3300ca1f51f10f9fc949b6ab821bf69e3a43d0ba88048c3ad2051016c05ca0e",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link5_02.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link5_02.obj",
+    "source_sha256": "ae3d53f2a9b7d715d36dfe16905257eea590d0025cf3834e67f7f628cb3874bd",
+    "packaged_sha256": "ae3d53f2a9b7d715d36dfe16905257eea590d0025cf3834e67f7f628cb3874bd",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link6_00.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link6_00.obj",
+    "source_sha256": "9cde8f6bf6593122030cfcd2744060d41bb6cc249af6ec2320e6deba1ddb2582",
+    "packaged_sha256": "9cde8f6bf6593122030cfcd2744060d41bb6cc249af6ec2320e6deba1ddb2582",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link6_01.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link6_01.obj",
+    "source_sha256": "642a33b2b4440013efe8ed831af43ef560ca7d122fefe0cca42831ee59bac06c",
+    "packaged_sha256": "642a33b2b4440013efe8ed831af43ef560ca7d122fefe0cca42831ee59bac06c",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/arm/link6_02.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/arm/link6_02.obj",
+    "source_sha256": "2d475e274c767b2b41772f331234e74e8fb68fff3fdbfe15cd0720e4667aeb9a",
+    "packaged_sha256": "2d475e274c767b2b41772f331234e74e8fb68fff3fdbfe15cd0720e4667aeb9a",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/cell/cell.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/cell/cell.obj",
+    "source_sha256": "607e1109ada00d3a536cc7cbe27b939f7b57d6b4e69747bfe23bb45216e24782",
+    "packaged_sha256": "607e1109ada00d3a536cc7cbe27b939f7b57d6b4e69747bfe23bb45216e24782",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/cell/sheet.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/cell/sheet.obj",
+    "source_sha256": "e7a12b4b5cac629424578286e9331896365ab695be722ba03b7d245f1551dcfd",
+    "packaged_sha256": "e7a12b4b5cac629424578286e9331896365ab695be722ba03b7d245f1551dcfd",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/gripper/ee_base_link_00.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/gripper/ee_base_link_00.obj",
+    "source_sha256": "9bc93f69d2e693e62c5ba602158ec5a515841e6764f3fc8deea526cf0cf9d9cc",
+    "packaged_sha256": "9bc93f69d2e693e62c5ba602158ec5a515841e6764f3fc8deea526cf0cf9d9cc",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/gripper/ee_base_link_01.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/gripper/ee_base_link_01.obj",
+    "source_sha256": "eb7c8ba2ac387dd4a68689c519d1cc4fba832931fb0c1de7fee1ae0684613ef2",
+    "packaged_sha256": "eb7c8ba2ac387dd4a68689c519d1cc4fba832931fb0c1de7fee1ae0684613ef2",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/gripper/ee_base_link_02.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/gripper/ee_base_link_02.obj",
+    "source_sha256": "aa5d1948f08d764d0f585ca93041d6732112c9ec2e6278fa3a9d780abbd91bb6",
+    "packaged_sha256": "aa5d1948f08d764d0f585ca93041d6732112c9ec2e6278fa3a9d780abbd91bb6",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/gripper/finger_inner_00.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/gripper/finger_inner_00.obj",
+    "source_sha256": "af021d37d61971417bc9f57f051d855d61859cd304a2e5a6a12fd05c85dca60b",
+    "packaged_sha256": "af021d37d61971417bc9f57f051d855d61859cd304a2e5a6a12fd05c85dca60b",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/gripper/finger_inner_01.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/gripper/finger_inner_01.obj",
+    "source_sha256": "dd6f997d77ca86956cc3798614e877a4efa3bab8e112ead74c5c8381621d546b",
+    "packaged_sha256": "dd6f997d77ca86956cc3798614e877a4efa3bab8e112ead74c5c8381621d546b",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/gripper/finger_inner_02.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/gripper/finger_inner_02.obj",
+    "source_sha256": "95fad3566bcc110e3c27c19d599b4f2de950dab830270b076480e7dc9c70b64b",
+    "packaged_sha256": "95fad3566bcc110e3c27c19d599b4f2de950dab830270b076480e7dc9c70b64b",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/gripper/finger_outer_00.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/gripper/finger_outer_00.obj",
+    "source_sha256": "ec237af8498effa0e4c6310a1248d16185473fb5cb82b2f360952ac48b5e285f",
+    "packaged_sha256": "ec237af8498effa0e4c6310a1248d16185473fb5cb82b2f360952ac48b5e285f",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/gripper/finger_outer_01.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/gripper/finger_outer_01.obj",
+    "source_sha256": "6fbb535869ec80738eaea0c9cf08d0094375645651b7be618e668ae0fbb0355b",
+    "packaged_sha256": "6fbb535869ec80738eaea0c9cf08d0094375645651b7be618e668ae0fbb0355b",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/assets/visual/gripper/finger_outer_02.obj": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/assets/visual/gripper/finger_outer_02.obj",
+    "source_sha256": "66a6ce28f644d795d2b687713a2d12178451490054286539a24819471e3905fd",
+    "packaged_sha256": "66a6ce28f644d795d2b687713a2d12178451490054286539a24819471e3905fd",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/cell/cell.xml": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/cell/cell.xml",
+    "source_sha256": "b5049dd1032dd1ebc89a4d918f324df08709a24d11e2a77aab9499665655735e",
+    "packaged_sha256": "b5049dd1032dd1ebc89a4d918f324df08709a24d11e2a77aab9499665655735e",
+    "adapted": false
+  },
+  "assets/openarm_mujoco/v2/openarm_bimanual.xml": {
+    "source": "2610_openarm_teleop/openarm_mujoco/v2/openarm_bimanual.xml",
+    "source_sha256": "6b1b94274bb032035ea39d64eb0550f04d78124e2dca33df1f70ae23ae8a0d96",
+    "packaged_sha256": "6b1b94274bb032035ea39d64eb0550f04d78124e2dca33df1f70ae23ae8a0d96",
+    "adapted": false
+  },
+  "licenses/OpenArm-Apache-2.0.txt": {
+    "source": "2610_openarm_teleop/openarm_mujoco/LICENSE",
+    "source_sha256": "66a512fea6d46110e34cd7d320573a276a0a5db6cd2508e4eaadabbe39eb5938",
+    "packaged_sha256": "66a512fea6d46110e34cd7d320573a276a0a5db6cd2508e4eaadabbe39eb5938",
+    "adapted": false
+  }
+}

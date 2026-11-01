@@ -1,0 +1,1 @@
+{"reason":"obs-0008 shows the plate near the orange destination, partly occluded by the left hand. RGB alone cannot verify seating, alignment, or tilt; obtain a top-down depth observation before moving anything.","request_json":"{\"based_on\":[\"obs-0008\"],\"actions\":[{\"kind\":\"observe\",\"camera\":\"biolab_top\",\"depth\":true}]}"}
